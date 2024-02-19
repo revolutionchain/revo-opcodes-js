@@ -1,13 +1,13 @@
-# qtum-opcodes-js
-The QTUM opcodes map
+# revo-opcodes-js
+The REVO opcodes map
 
 ## Installation
 ``` bash
-npm install qtum-opcodes
+npm install revo-opcodes
 ```
 
 ## Setup
 ### Node.js
 ``` javascript
-var ops = require('qtum-opcodes')
+var ops = require('revo-opcodes')
 ```
